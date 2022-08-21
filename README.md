@@ -77,4 +77,4 @@ At last, the application will be running in your local machine and the front-end
 
 ## Deploy
 
-The link of the deployed API is [http://ipt-drivenops.tk](http://http://ipt-drivenops.tk)
+The link of the deployed application is [http://ipt-drivenops.tk](http://ipt-drivenops.tk)
